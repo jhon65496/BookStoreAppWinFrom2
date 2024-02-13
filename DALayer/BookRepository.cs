@@ -9,7 +9,10 @@ namespace BookStoreApp.ViewModel
 {
     internal class BookRepository
     {
+        public void Add()
+        {
 
+        }
 
     }
 }

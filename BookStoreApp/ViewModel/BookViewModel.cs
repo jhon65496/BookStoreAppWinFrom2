@@ -8,7 +8,9 @@ namespace BookStoreApp.ViewModel
 {
     internal class BookViewModel
     {
+        public void Add()
+        {
 
-
+        }
     }
 }
