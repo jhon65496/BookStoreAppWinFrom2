@@ -8,7 +8,10 @@ namespace BookStoreApp.ViewModel
 {
     internal class SellerService
     {
+        public void Add()
+        {
 
+        }
 
     }
 }
