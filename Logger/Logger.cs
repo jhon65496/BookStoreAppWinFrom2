@@ -8,5 +8,9 @@ namespace Logger
 {
     public class Logger
     {
+        public void Logging()
+        {
+
+        }
     }
 }
