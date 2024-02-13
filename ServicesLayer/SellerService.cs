@@ -13,5 +13,9 @@ namespace BookStoreApp.ViewModel
 
         }
 
+        public void Update()
+        {
+
+        }
     }
 }
