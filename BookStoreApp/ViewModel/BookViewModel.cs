@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookStoreApp.ViewModel
 {
+    // Комментарий к BookViewModel
     internal class BookViewModel
     {
 
